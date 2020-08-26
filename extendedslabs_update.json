@@ -5,10 +5,12 @@
     "1.14.2-latest": "0.3.1-beta",
     "1.14.4-latest": "0.1.0-beta",
     "1.15.2-latest": "1.2.0",
+    "1.16.1-latest": "1.4.0",
     "1.13.2-recommended": "0.6.1-beta",
     "1.14.2-recommended": "0.3.1-beta",
     "1.14.4-recommended": "0.1.0-beta",
-    "1.15.2-recommended": "1.2.0"
+    "1.15.2-recommended": "1.2.0",
+    "1.16.1-recommended": "1.4.0"
   },
   "1.13.2": {
     "0.6.1-beta": "update(recipes): vertical slabs can now be crafted in to regular slabs.\nfix(lang): item group now display correct mod name."
@@ -21,5 +23,8 @@
   },
   "1.15.2": {
     "1.2.0": "Fix Major Server Crash.\nVertical Slabs for Biomes O' Plenty Planks.\nChanged the Creative Tab GUI a tad."
+  },
+  "1.16.1": {
+    "1.4.0": "Updated to 1.16.1!\nAdded 1.16 Vertical Slabs and Corners."
   }
 }
